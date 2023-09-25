@@ -1,0 +1,62 @@
+# Frontend Mentor - Four card feature section solution
+
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+
+### Screenshot
+
+![](./four-card-section-project.jpg)
+
+Above is the screenshot of the "Four card section project" from the Frontend Mentor Project.
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+
+### What I learned
+
+Using Grid was the important part in this project.
+
+Grid property can solve the complex pattern in easily way. So I recommend for the people if you are trying to complete the project then use the "Grid" property.
+
+### Continued development
+
+I do want to focus on grid property as I understood that we can solve difficult pattern easily with grid property and make responsive in different width of the device.
+
+So I hope and I will focus on grid as well as on other properties to make the website more responsive.
+
+
+## Author
+
+- Frontend Mentor - [@Akhil-Banothu](https://www.frontendmentor.io/profile/Akhil-Banothu)
